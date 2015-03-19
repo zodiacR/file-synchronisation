@@ -1,6 +1,5 @@
 /**
-  *name    : Xuanli He
-  *number  : 646502
+  *name    : Zodiac
   *program : SyncServer
   *version : 1.0
   *date    : 2014-09-10
