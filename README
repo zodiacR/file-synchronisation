@@ -1,0 +1,16 @@
+Author: Zodiac<br />
+Number: 21.10.2014<br />
+Description:<br />
+This programme is to synchronise a source file and a destination.<br />
+Usage: <br />
+After compile all java files to jar files, you can use following <br />
+command to run this programme. <br />
+* java -jar synserver.jar -file filename [-p serverport]
+* java -jar synclient.jar -file filename -host hostname[-p serverport]
+[-b blocksize] [-d direction] <br />
+
+P.S: options of direction are "push" and "pull". "push" will push<br />
+local files to remote server. "pull" will pull a local file from<br />
+remote server to client
+
+
